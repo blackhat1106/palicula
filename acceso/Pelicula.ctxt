@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pelicula
+comment1.params=nombre\ director\ generos\ duracion\ a\u00F1o\ calificacion
+comment1.target=Pelicula(java.lang.String,\ java.lang.String,\ java.util.List,\ int,\ int,\ double)
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=
+comment3.target=void\ imprimirCartel()
+comment4.params=text
+comment4.target=java.lang.String\ centerText(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
